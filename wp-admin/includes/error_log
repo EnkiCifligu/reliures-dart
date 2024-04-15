@@ -1,0 +1,32 @@
+[28-Oct-2021 14:33:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/h06qpoki31ox/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[29-Oct-2021 16:20:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/h06qpoki31ox/public_html/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[13-Jun-2023 12:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16
+[17-Jun-2023 02:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 20:53:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 20:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 04:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16
+[13-Sep-2023 04:12:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-admin/includes/admin.php on line 16

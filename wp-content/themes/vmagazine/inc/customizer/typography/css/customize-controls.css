@@ -1,0 +1,29 @@
+.customize-control-typography li select {
+	width: 90%;
+}
+
+.customize-control-typography li.typography-font-weight,
+.customize-control-typography li.typography-font-size {
+	clear: both;
+}
+.customize-control-typography li.typography-font-size input,
+.customize-control-typography li.typography-line-height input {
+	width: 75px;
+}
+
+.slider-range-line-height,
+.slider-range-size{
+	width: 90%;
+}
+.p_data_reset a {
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+}
+.p_data_reset {
+	float: right;
+    background: #d41313;
+    width: 51px;
+    border: 2px solid #af0d0d;
+    text-align: center;
+}

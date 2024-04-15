@@ -1,0 +1,48 @@
+[29-Mar-2022 06:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[29-Mar-2022 06:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php on line 53
+[29-Mar-2022 07:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[29-Mar-2022 07:28:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/customizer.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/customizer.php on line 122
+[29-Mar-2022 09:37:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php on line 67
+[29-Mar-2022 10:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-Aug-2022 04:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-functions.php on line 67
+[22-Aug-2022 06:59:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/customizer.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/customizer.php on line 122
+[22-Aug-2022 12:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/custom-header.php on line 53
+[22-Aug-2022 17:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[22-Aug-2022 17:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-Aug-2022 19:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

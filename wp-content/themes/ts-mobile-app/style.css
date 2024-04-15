@@ -1,0 +1,207 @@
+/*
+Theme Name: TS Mobile App
+Theme URI: https://www.themeshopy.com/free/wp-bb-mobile-application-theme/
+Author: ThemeShopy
+Author URI: https://www.themeshopy.com/
+Description: TS Mobile APP is a stunning and multipurpose unique business WordPress theme that can easily bring your website to perfection. Neat and extremely easy to use, it will truly make your website stand out among others. TS Mobile APP is a free WordPress theme for websites. It is an innovative lead capturing cum landing page WordPress theme. It is ideal for seeking reviews of upcoming products, mobile apps, gadgets or any other business proposition. The theme can be used by varying businesses like hotel, restaurant, real estate, gym, education, construction, tours and travel, photography, job board and portal, local business, architecture, events, gallery exhibition, fashion apparels, lens, yoga, university, school, sports, and similar websites. TS Mobile APP has niche specific design, responsive layout and theme customizer to manage sliders, sidebars, header and footer without involving in the coding part. Its secure and clean code provides faster page loading. It provides numerous customization options making it effortless for you to make a personalized website. So, create a professional website with optimized codes with this theme. Demo: https://www.themeshopy.com/bb-mobile-application-theme/
+Version: 0.1
+license : GNU General Public License v3.0
+License URI : http://www.gnu.org/licenses/gpl.html
+Text Domain: ts-mobile-app
+Template: bb-mobile-application
+Tags: custom-background, custom-menu, custom-colors, custom-logo, editor-style, featured-images, full-width-template, footer-widgets, one-column, sticky-post, two-columns, theme-options, threaded-comments, right-sidebar, left-sidebar, grid-layout, three-columns, blog, e-commerce
+*/
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+#header,
+.read-more-box,
+#sidebar input[type="submit"],
+#sidebar h3,
+#comments input[type="submit"].submit,
+.woocommerce span.onsale,
+.woocommerce button.button.alt,
+.woocommerce a.button,
+.woocommerce #respond input#submit,
+.woocommerce .cart .button, .woocommerce .cart input.button,
+nav.woocommerce-MyAccount-navigation ul li,
+.pagination .current,
+.pagination a:hover,
+.pagination span, .pagination a,
+input[type="submit"]:hover,
+input[type="submit"] ,
+#footer .inner,
+#footer .tagcloud a:hover {
+    background: #b73558 !important;
+}
+#sidebar ul li a:hover,
+.product_meta a,
+.woocommerce p.stars a,
+.woocommerce-MyAccount-content a,
+#footer h3,
+#footer a.rsswidget{
+    color: #b73558;
+}
+.new-text {
+    border-left: 20px solid #b73558;
+}
+#sidebar h3,
+#sidebar input[type="submit"],
+#header .nav ul li a:hover,
+#sidebar a.rsswidget{
+    color: #fff;
+}
+#footer .tagcloud a{
+    border-color: #b73558;
+}
+
+/*---- Slider ----------*/
+
+#slider{
+	background: #fff;
+}
+#slider .carousel-caption {
+    position: absolute;
+    top: 35%;
+    right: 40%;
+    left: 12%;
+}
+#slider .inner_carousel h2{
+    font-size: 55px;
+}
+#slider .inner_carousel h2,
+#slider .know-btn{
+	text-align: left;
+    padding: 0;
+}
+#slider .inner_carousel h2,
+#slider .inner_carousel p{
+	color: #3a2a34;
+	line-height: 1.5;
+    text-align: left;
+}
+#slider .know-btn a{
+	background: #ca486c;
+    border-top: none;
+    border-radius: 3px;
+    padding: 14px 18px;
+    font-size: 13px;
+    border-bottom: solid 3px #3a2a34;
+}
+.page-template-custom-front-page #header{
+	background: #3a2a34c4 !important;
+	border-bottom: solid 3px #ca486c;
+}
+#slider .carousel-control-prev-icon,
+#slider .carousel-control-next-icon{
+    color: #3a2a34;
+}
+
+/*--------- header -----------*/
+
+#header .nav ul li a {
+    font-size: 13px;
+    text-transform: none;
+    letter-spacing: 1px;
+}
+#header .nav ul li a:hover{
+	color: #ca486c;
+}
+#header .nav ul li:hover > ul{
+	background: #3a2a34;
+}
+#header .nav ul.sub-menu li a:hover{
+	background: #ca486c;
+}
+.toggle a {
+    color: #fff;
+    background: url(images/responsive_menu.png) no-repeat right center #3a2a34;
+}
+#header .logo {
+    padding: 10px 0;
+}
+
+/*----Service Section------*/
+.service{
+	text-align: center;
+	padding: 25px;
+}
+.post-list-odd {
+    background: #3a2a34;
+    border-top: 5px solid #b73558;
+}
+.post-list-even {
+    background: #b73558;
+    border-top: 5px solid #3a2a34;
+}
+.service h5 {
+    padding: 7px;
+    color: #fff;
+}
+.creative-feature h3 {
+    background: url(images/sectionborder.png) no-repeat center bottom;
+}
+
+/*------About-mobile ------*/
+#about-mobile .know-btn a{
+	background: #ca486c;
+    border-top: none;
+    border-bottom: solid 3px #3a2a34;
+    color: #fff;
+    padding: 14px 18px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+#about-mobile .know-btn{
+	padding: 15px 0;
+}
+#about-mobile {
+    margin: 25px 0;
+}
+#about-mobile h2 {
+    text-align: left;
+    background: url(images/sectionborder.png) no-repeat left bottom;
+    padding: 15px 0px;
+}
+#about-mobile p {
+    color: #777777;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+/*-----footer----*/
+#footer{
+    background: #2c2c2c;
+}
+#footer h3 {
+    border-bottom: 3px double #b73558;
+}
+
+
+/*--------media--------------*/
+@media screen and (min-width: 320px) and (max-width: 425px){
+    #slider .carousel-caption{
+        right: 0;
+        left: 0;
+    }
+    #slider .know-btn {
+        text-align: center;
+    }
+    #header .nav ul li{
+        display: inline-block;
+        width: 100%;
+    }
+    #header .logo{
+        text-align: center;
+    }
+    #about,
+    #about h4,
+    .middle-image {
+        text-align: center;
+    }
+    .middle-image .featuered-image img {
+        width: 100%;
+    }
+}

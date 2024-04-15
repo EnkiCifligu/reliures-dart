@@ -1,0 +1,16 @@
+[29-Mar-2022 07:14:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[29-Mar-2022 08:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[22-Aug-2022 22:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[23-Aug-2022 01:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/h06qpoki31ox/public_html/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
